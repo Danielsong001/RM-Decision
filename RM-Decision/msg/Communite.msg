@@ -1,0 +1,2 @@
+uint8 beentreeflag
+uint8 beentreeflag_robot1

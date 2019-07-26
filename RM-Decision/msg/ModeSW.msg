@@ -1,0 +1,2 @@
+uint8 gimbal_mode
+uint8 chassis_mode
